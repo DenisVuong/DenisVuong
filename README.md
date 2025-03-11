@@ -4,7 +4,7 @@
 
 # 🤔 Qui je suis ?
 ⏳ Actuellement entrain de développer mon [portfolio](https://denisvuong.github.io/)<br>
-👨‍🎓 Etudiant en deuxième année de BUT Informatique<br>
+👨‍🎓 Etudiant en deuxième année de BUT Informatique à l'IUT de Villetaneuse<br>
 🎬 Je crée du contenu pendant mon temps libre<br>
 
 ###
