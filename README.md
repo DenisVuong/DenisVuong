@@ -1,4 +1,4 @@
-# Bonjour 👋! Je m'appelle Denis Vuong, je suis un étudiant en informatique à l'université Sorbonne Paris Nord
+# Bonjour 👋! Je suis Denis Vuong, un étudiant en informatique à l'université Sorbonne Paris Nord
 
 ###
 
