@@ -3,9 +3,8 @@
 ###
 
 # 🤔 Qui je suis ?
-👨‍🎓 Etudiant en deuxième année de BUT Informatique à l'IUT de Villetaneuse<br>
+👨‍🎓 Etudiant en troisième année de BUT Informatique à l'IUT de Villetaneuse<br>
 🎬 Je crée du contenu pendant mon temps libre<br>
-⏳ Actuellement entrain de développer mon [portfolio](https://denisvuong.github.io/)<br>
 
 
 ###
