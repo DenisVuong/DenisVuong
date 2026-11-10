@@ -5,7 +5,7 @@
 ###
 
 # 🤔 Qui je suis ?
-👨‍🎓 Etudiant en Pré-MSc chez Epitech Paris<br>
+👨‍🎓 Etudiant en Master Of Science chez Epitech Paris<br>
 🎬 Je crée du contenu pendant mon temps libre<br>
 
 
