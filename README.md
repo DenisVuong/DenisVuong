@@ -1,4 +1,4 @@
-# Bonjour 👋! Je suis Denis VUONG, un développeur Full-Stack / DevOps
+# Bonjour 👋! Je suis Denis VUONG, un développeur Full-Stack / Apprenti Cloud
 
 ### 🌐 [Consulter mon Portfolio : denisvuong.github.io](https://denisvuong.github.io)
 
