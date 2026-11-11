@@ -26,15 +26,6 @@ to automate data entry from Excel into SAP and worked with the Odoo ERP.
 I'm currently looking for a **two-year apprenticeship starting in January
 2027**, with four weeks at the company and two weeks at school.
 
-### Currently working on
-
-**[LinkTrack](https://github.com/DenisVuong/LinkTrack)**
-
-A URL shortener with click tracking. I'm developing its frontend and
-continuing to build the application.
-
-`React` `Node.js` `Express` `PostgreSQL` `Docker`
-
 ### Selected projects
 
 **[Welcome to My Savane](https://github.com/DenisVuong/welcome-to-my-savane)**
