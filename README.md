@@ -16,8 +16,7 @@ Computer science student at Epitech, building applications from idea to delivery
 
 ### About me
 
-I'm a computer science student at Epitech with a background in software
-development. I enjoy building web applications end to end, with a particular
+I'm a computer science student at Epitech. I enjoy building web applications end to end, with a particular
 interest in **APIs, backend development, and automation**.
 
 During my internship at **ATS Vietnam**, I developed Power Automate workflows
