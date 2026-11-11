@@ -1,47 +1,72 @@
-# Bonjour 👋! Je suis Denis VUONG, un développeur Full-Stack / Apprenti Cloud
+<div align="center">
 
-### 🌐 [Consulter mon Portfolio : denisvuong.github.io](https://denisvuong.github.io)
+# Denis Vuong
 
-###
+**Full-Stack Developer · API & Backend · Automation**
 
-# 🤔 Qui je suis ?
-👨‍🎓 Etudiant en Master Of Science chez Epitech Paris<br>
-🎬 Je crée du contenu pendant mon temps libre<br>
+Computer science student at Epitech, building applications from idea to delivery.
 
+[Portfolio](https://denisvuong.github.io/) &nbsp; · &nbsp;
+[LinkedIn](https://www.linkedin.com/in/denisvuong/) &nbsp; · &nbsp;
+[Email](mailto:vuong.denis.p@gmail.com)
 
-###
+</div>
 
-# 💻 Compétences techniques:
+---
 
-**Frontend** <br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### About me
 
-**Backend** <br>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+I'm a computer science student at Epitech with a background in software
+development. I enjoy building web applications end to end, with a particular
+interest in **APIs, backend development, and automation**.
 
-**Base de données** <br>
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+During my internship at **ATS Vietnam**, I developed Power Automate workflows
+to automate data entry from Excel into SAP and worked with the Odoo ERP.
 
-**DevOps, Outils & Systèmes** <br>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+I'm currently looking for a **two-year apprenticeship starting in January
+2027**, with four weeks at the company and two weeks at school.
 
-**Design & Création** <br>
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+### Currently working on
 
-###
+**[LinkTrack](https://github.com/DenisVuong/LinkTrack)**
 
-# 📫 Contactez-moi :
-<a href="https://www.linkedin.com/in/denisvuong/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-</a>
+A URL shortener with click tracking. I'm developing its frontend and
+continuing to build the application.
 
+`React` `Node.js` `Express` `PostgreSQL` `Docker`
 
+### Selected projects
 
+**[Welcome to My Savane](https://github.com/DenisVuong/welcome-to-my-savane)**
 
-<br clear="both">
+A job board built with a teammate for candidates and recruiters. It includes
+job search, applications, profile management, and dedicated recruiter and
+admin spaces.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DenisVuong/DenisVuong/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DenisVuong/DenisVuong/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/DenisVuong/DenisVuong/output/github-snake.svg" />
-</picture>
+`React` `Node.js` `Express` `PostgreSQL` `Docker Compose`
+
+**[Internship management platform](https://github.com/LiOlivier/SAE-S3.01)**
+
+A group project for tracking internships, with dashboards for students,
+supervisors, and administrators.
+
+`PHP` `MySQL` `JavaScript` `HTML` `CSS`
+
+### My toolbox
+
+| Area | Technologies |
+| :--- | :--- |
+| **Frontend** | JavaScript, React, HTML, CSS, Tailwind CSS |
+| **Backend & APIs** | Node.js, Express, Python, FastAPI, Java, Spring Boot, PHP |
+| **Databases** | PostgreSQL, MySQL, MariaDB, MongoDB, Redis |
+| **DevOps & automation** | Docker, Docker Compose, GitHub Actions, Jenkins, Power Automate, n8n |
+| **Tools & environment** | Git, GitHub, Linux, Bash, VS Code, IntelliJ |
+| **AI tools** | Claude Code, OpenAI Codex, MCP |
+
+### Get in touch
+
+Have a project in mind or want to connect? Feel free to reach out.
+
+[Email](mailto:vuong.denis.p@gmail.com) &nbsp; / &nbsp;
+[LinkedIn](https://www.linkedin.com/in/denisvuong/) &nbsp; / &nbsp;
+[Portfolio](https://denisvuong.github.io/)
